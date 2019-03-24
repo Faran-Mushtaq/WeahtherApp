@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Kingfisher (4.10.0)
+  - MOLH (0.8)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (= 4.10.0)
+  - MOLH
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - MOLH
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  MOLH: b9766efe89be975ce82a8d5642f681da23c876fc
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+
+PODFILE CHECKSUM: 211c5c467adb7bfe81702fe69d729dc40c1423ad
+
+COCOAPODS: 1.6.1
